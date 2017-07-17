@@ -7,4 +7,15 @@ and open the template in the editor.
     Created on : Jul 17, 2017, 4:53:12 PM
     Author     : Rajtilak
 */
-p {fonr-family: Arial; font-size:40px;}
+
+/*p {fonr-family: Arial; font-size:40px;}*/
+
+body {
+    max-width: 1000px;
+    margin: auto;
+    font-family: Roboto;
+    font-size: 16px;
+    color: #ffff00;
+    background-color: #000000;
+    
+}
